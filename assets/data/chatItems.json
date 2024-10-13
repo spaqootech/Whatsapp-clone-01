@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "message": "Hey there, how's it going?",
+        "date": "10/08/2024",
+        "image": "assets/images/chat-img1.jfif"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "message": "Did you finish the report?",
+        "date": "05/10/2024",
+        "image": "assets/images/chat-img2.jfif"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "message": "Just got back from vacation!",
+        "date": "28/09/2024",
+        "image": "assets/images/chat-img3.jfif"
+    },
+    {
+        "id": 4,
+        "name": "Dana",
+        "message": "Let's meet for lunch tomorrow.",
+        "date": "02/10/2024",
+        "image": "assets/images/chat-img4.jfif"
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "message": "The presentation was great!",
+        "date": "13/07/2024",
+        "image": "assets/images/chat-img5.jfif"
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "message": "I'll send the files soon.",
+        "date": "09/09/2024",
+        "image": "assets/images/chat-img6.jfif"
+    },
+    {
+        "id": 7,
+        "name": "Grace",
+        "message": "Had a wonderful weekend!",
+        "date": "18/08/2024",
+        "image": "assets/images/chat-img7.jfif"
+    },
+    {
+        "id": 8,
+        "name": "Hank",
+        "message": "Can you review this document?",
+        "date": "22/10/2024",
+        "image": "assets/images/chat-img8.jfif"
+    },
+    {
+        "id": 9,
+        "name": "Ivy",
+        "message": "Looking forward to the event.",
+        "date": "30/09/2024",
+        "image": "assets/images/chat-img9.jfif"
+    },
+    {
+        "id": 10,
+        "name": "Jack",
+        "message": "I'm running late, be there soon.",
+        "date": "01/10/2024",
+        "image": "assets/images/chat-img10.jfif"
+    }
+]

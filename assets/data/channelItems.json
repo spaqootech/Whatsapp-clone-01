@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "ARY",
+        "message": "Today weather of Karachi",
+        "date": "10/10/2024",
+        "image": "assets/images/channel-img1.png"
+    },
+    {
+        "id": 2,
+        "name": "Geo News",
+        "message": "Major traffic jam on Shahrah-e-Faisal",
+        "date": "09/10/2024",
+        "image": "assets/images/channel-img2.png"
+    },
+    {
+        "id": 3,
+        "name": "Dawn",
+        "message": "Pakistan vs India cricket match",
+        "date": "08/10/2024",
+        "image": "assets/images/channel-img3.png"
+    },
+    {
+        "id": 4,
+        "name": "Samaa",
+        "message": "Political unrest continues in Islamabad",
+        "date": "07/10/2024",
+        "image": "assets/images/channel-img4.png"
+    },
+    {
+        "id": 5,
+        "name": "Express News",
+        "message": "Stock market shows positive growth",
+        "date": "06/10/2024",
+        "image": "assets/images/channel-img5.png"
+    }
+]
