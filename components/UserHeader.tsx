@@ -14,7 +14,7 @@ const UserHeader = () => {
             <Text style={className`text-lg text-white`}>Spaqoo</Text>
             <Text style={className`text-xs text-white`}>last seen today at 08:21pm</Text>
         </View>
-        <View style={className`flex-row`}>
+        <View style={className`flex-row gap-2`}>
             <VideoIcon/>
             <CallsIcon/>
             <EllipsisIcon/>

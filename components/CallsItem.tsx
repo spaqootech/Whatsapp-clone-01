@@ -3,6 +3,7 @@ import React from 'react'
 import className from 'twrnc'
 import data from '../assets/data/chatItems.json'
 import CallsIcon from '@/assets/icons/CallsIcon'
+import PressableCalls from './PressableCalls'
 const CallsItem = ({source , title,message}) => {
   return (
     <View style={className`flex-row justify-between items-center gap-3 p-1 py-3`}>
@@ -11,7 +12,7 @@ const CallsItem = ({source , title,message}) => {
     <Text style={className`text-white text-lg font-semibold`}>{title}</Text>
     <Text style={className`text-gray-500 text-lg`}>{message}</Text>
     </View>
-    <CallsIcon/>
+    <PressableCalls/>
   </View>
   )
 }
